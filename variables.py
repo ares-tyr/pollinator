@@ -1,9 +1,9 @@
-driver_location = 'C:/Users/
+driver_location = 'C:/Users/'
 questions = ['Scenario 1', 'Scenario 2', 'Scenario 3', 'Scenario 4',
              'Scenario 5', 'Scenario 6', 'Scenario 7', 'Scenario 8',
              'Scenario 9', 'Scenario 10', 'Scenario 11']
 answers = ['Increase', 'Flat', 'Decrease']
-save_file_location = 'Y:/Code/
+save_file_location = 'Y:/Code/'
 question_2_text = 'What is the rate change in Scenario '
 questions_2 = [
     ['+0%', '+1.5%', '-1.5%'],
