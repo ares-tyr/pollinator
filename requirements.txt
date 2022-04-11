@@ -1,2 +1,3 @@
 selenium==3.141.0
 qrcode==6.1
+urllib==3.0
